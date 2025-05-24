@@ -31,8 +31,8 @@ This repository contains two Python scripts for web scraping: `scrape_quotes.py`
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/web-scraper-quotes-news.git
-   cd web-scraper-quotes-news
+   git clone https://github.com/dmitry-voroth/web-scraper-for-quotes-and-news.git
+   cd web-scraper-for-quotes-and-news
    ```
 
 2. **Install Dependencies**:
@@ -120,4 +120,4 @@ Contributions are welcome! Feel free to submit issues or pull requests for impro
 - Improving performance for large-scale scraping.
 
 ## Contact
-For questions or suggestions, please open an issue on this repository or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, please open an issue on this repository or contact [dmitryvorozthsov@gmail.com](mailto:dmitryvorozthsov@gmail.com).
